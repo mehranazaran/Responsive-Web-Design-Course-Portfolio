@@ -5,6 +5,10 @@
 This project is a fully responsive clone of the Tap30 (تپسی) website, developed to demonstrate advanced front-end development skills and responsive web design principles. The aim was to replicate the core layout and functionality of the original site, ensuring an optimal user experience across various devices including desktops, tablets, and mobile phones.
 
 ---
+## 📸 Preview
+
+<img src="Screenshot%20(33).png" alt="App Screenshot" width="100%" style="border-radius: 12px;" />
+---
 
 ## Features
 
